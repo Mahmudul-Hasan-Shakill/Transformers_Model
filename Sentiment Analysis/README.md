@@ -39,4 +39,4 @@ data = input()
 toxicity_level(data)
 ```
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
