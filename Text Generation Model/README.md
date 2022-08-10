@@ -2,6 +2,8 @@
 
 **A Text Generation model, also known as causal language model, can be trained on code from scratch to help the programmers in their repetitive coding tasks.**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahmudul-Hasan-Shakill/Transformers_Model/blob/main/Text%20Generation%20Model/TextGeneration_GPT_2.ipynb)
+
 ## Installation
 
 ```bash
