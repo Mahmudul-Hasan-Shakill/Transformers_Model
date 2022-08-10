@@ -2,7 +2,7 @@
 
 **A blog post is any article, news piece, or guide published in a website's blog section. A blog post typically covers a specific topic or query, is educational, ranges from 600 to 2,000+ words, and contains other media types such as images, videos, infographics, and interactive charts.**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Mahmudul-Hasan-Shakill/Transformers_Model/blob/main/Generate%20Blog%20Post/Generate_Blog_Post.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahmudul-Hasan-Shakill/Transformers_Model/tree/main/Generate%20Blog%20Post)
 
 ## Installation
 
