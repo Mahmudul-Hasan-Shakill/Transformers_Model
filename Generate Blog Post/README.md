@@ -45,4 +45,4 @@ gr.Interface(generate_text, 'textbox', output_text, title='Generate Blog Post',
              description = 'Generate Blog Post with GPT-2').launch(debug=True)
 ```
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
